@@ -1,5 +1,1 @@
-<html>
-  <body>
-    <script src="script.md"></script>
-  </body>
-</html>
+<script src="script.js"></script>
